@@ -1,0 +1,3 @@
+"ID","Efficiency Type","Definition"
+1,"mass/mass","Corrected for surface area. The mass on the area of the donor surface area that contacts the receiver/the mass detected on the receiver"
+2,"total amount on receiver/total amount on donor","Not Corrected for surface area. The total mass on the donor surface/the total mass on the receiver"

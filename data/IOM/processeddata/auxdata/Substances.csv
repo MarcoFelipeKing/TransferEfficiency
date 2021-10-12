@@ -1,0 +1,69 @@
+"Substance ID","Substance","Physical State","Viscosity","Vapour Pressure","Water Solubility","Particle Size","Particle Size Category","Solvent","Concentration","Units"
+1,"House Dust",3,NA,NA,NA,"<44 um","<50 um",NA,NA,"mg/cm2"
+2,"Rhinovirus",4,NA,NA,NA,NA,NA,NA,NA,"Plaque Forming Units (PFU)"
+3,"House Dust",3,NA,NA,NA,"44-149 um","50 - 150 um",NA,NA,"mg/cm2"
+4,"House Dust",3,NA,NA,NA,"149 - 177 um",">150 um",NA,NA,"mg/cm2"
+5,"House Dust",3,NA,NA,NA,"177-246",">150 um",NA,NA,"mg/cm2"
+6,"House Dust",3,NA,NA,NA,"246-392 um",">150 um",NA,NA,"mg/cm2"
+7,"House Dust",3,NA,NA,NA,"392-83 um",">150 um",NA,NA,"mg/cm2"
+8,"Escherichia coli",4,NA,NA,NA,NA,NA,NA,NA,"Organism/cm2"
+9,"Salmonella",4,NA,NA,NA,NA,NA,NA,NA,"organism/cm2"
+10,"Staphylococcus aureus",4,NA,NA,NA,NA,NA,NA,NA,"organism/cm2"
+11,"Klebsiella aerogenes",4,NA,NA,NA,NA,NA,NA,NA,"organism/cm2"
+12,"Chlorpyrifos",5,NA,NA,NA,NA,NA,"Not Available",NA,"ug/cm2"
+13,"d-trans Allethrin",2,NA,1.2e-05,NA,NA,NA,NA,NA,"ug/cm2"
+14,"Human Parainfluenza Virus",4,NA,NA,NA,NA,NA,NA,NA,"Plaque Forming Units"
+15,"Soil",3,NA,NA,NA,NA,"Not Reported",NA,NA,NA
+16,"Captan",5,0,0,NA,NA,NA,"Acetone","50%","mg"
+17,"Malathion",2,0.03,0.00045,NA,NA,NA,"2-propanol","0.001%","mg"
+18,"Diazinon",2,0.013,0.037,NA,NA,NA,"2-propanol","0.001%","mg"
+19,"Chlorpyrifos",5,NA,NA,NA,NA,NA,"2-propanol","0.001%","mg"
+20,"House Dust",3,NA,NA,NA,"0-2.5 um","<50 um",NA,NA,"mg"
+21,"House Dust",3,NA,NA,NA,"2.5-10 um","<50 um",NA,NA,"mg"
+22,"House Dust",3,NA,NA,NA,"10-50 um","<50 um",NA,NA,"mg"
+23,"House Dust",3,NA,NA,NA,"50 - 200 um","50 - 150 um",NA,NA,"mg"
+24,"Atrazine",5,NA,NA,NA,NA,NA,"2-propanol","0.001%",NA
+25,"Tinopal",3,NA,NA,NA,NA,"Not Reported",NA,NA,"mg"
+26,"Chlorpyrifos",5,NA,0,NA,NA,NA,"Water","0.05%","mg"
+27,"Chlorpyrifos",5,NA,NA,NA,NA,NA,"Not Given","Not Given",NA
+28,"Pyrethrin I",2,NA,NA,NA,NA,NA,NA,NA,NA
+29,"Piperonyl Butoxide",2,NA,NA,NA,NA,NA,NA,NA,NA
+30,"Permethrin",5,NA,NA,NA,NA,NA,NA,NA,NA
+31,"Strontium Chloride",3,NA,NA,NA,NA,"Not Reported",NA,NA,"mg"
+32,"Arizona Test Dust",3,NA,NA,NA,">80 um","50 - 150 um",NA,NA,"mg"
+33,"Arizona Test Dust",3,NA,NA,NA,"<10 um","<50 um",NA,NA,"mg"
+34,"Arizona Test Dust",3,NA,NA,NA,"10 - 20 um","<50 um",NA,NA,"mg"
+35,"Arizona Test Dust",3,NA,NA,NA,"20 - 40 um","<50 um",NA,NA,"mg"
+36,"Arizona Test Dust",3,NA,NA,NA,"40 - 80 um","50 - 150 um",NA,NA,"mg"
+37,"Micrococcus luteus",4,NA,NA,NA,NA,NA,NA,NA,"CFU"
+38,"Phage PRD-1",4,NA,NA,NA,NA,NA,NA,NA,"CFU"
+39,"Serratia rubidaea",4,NA,NA,NA,NA,NA,NA,NA,"CFU"
+40,"Riboflavin",5,0,0,150,NA,NA,"Water","0.01%",NA
+41,"Staphylococcus epidermidis",4,NA,NA,NA,NA,NA,NA,NA,"CFU/cm2"
+42,"Propionibacterium acnes",4,NA,NA,NA,NA,NA,NA,NA,"CFU/cm2"
+43,"Salmonella enterica",4,NA,NA,NA,NA,NA,NA,NA,"CFU"
+44,"Uvitex",5,NA,3e-06,0,NA,NA,"Water","NR",NA
+45,"Pyrethrin I",2,0,0,0,NA,NA,NA,NA,NA
+46,"Piperonyl Butoxide",2,0,0,0,NA,NA,NA,NA,NA
+47,"Saffron",3,NA,NA,NA,NA,"Not Reported",NA,NA,"ug"
+48,"Tinopal-Flour Mixture",3,0,0,0,NA,"Not Reported",NA,"9% tinopal",NA
+49,"Tinopal",5,0,0,0,NA,NA,"Water",NA,NA
+50,"Azoxystrobin",2,NA,NA,6,NA,NA,"water","23.1","ug/cm2"
+51,"Carbendazim",2,NA,NA,29,NA,NA,"water","46","ug/cm2"
+52,"Flusilazole",2,NA,NA,54,NA,NA,"water","23.6","ug/cm2"
+53,"Isoproturon",2,NA,NA,65,NA,NA,"water","23","ug/cm2"
+54,"Tebuconazole",2,NA,NA,36,NA,NA,"water","25.9","ug/cm2"
+55,"Pendimethalin",2,NA,NA,0,NA,NA,"water","26","ug/cm2"
+56,"Chlorothalonil",5,0,0,0,NA,NA,"Water","0.47%",NA
+57,"Chlorpyrifos",5,0,0,0,NA,NA,"Water","0.068%",NA
+58,"Cyfluthrin",5,0,0,0,NA,NA,"Water","0.013%",NA
+59,"Chlorpyrifos",5,0,0,0,NA,NA,"water","0.25%",NA
+60,"Radium-226",6,0,0,0,NA,NA,NA,NA,NA
+61,"Calcium Acetate",3,0,0,0,NA,NA,NA,NA,"ug/cm2"
+62,"Zinc Oxide",3,0,0,0,NA,NA,NA,NA,"ug/cm2"
+63,"Epsom Salts",3,0,0,0,NA,NA,NA,NA,"ug/cm2"
+64,"Glycerol",2,0.002,0,0,NA,NA,"water","20%","ug/cm2"
+65,"Glycerol",2,0.007,0,0,NA,NA,"water","50%","ug/cm2"
+66,"Glycerol",2,0.109,0,0,NA,NA,"water","87%","ug/cm2"
+67,"Magnesium carbonate",3,0,0,0,NA,NA,NA,NA,"ug/cm2"
+68,"Vinegar",2,0,0,0,NA,NA,NA,NA,"ug/cm2"

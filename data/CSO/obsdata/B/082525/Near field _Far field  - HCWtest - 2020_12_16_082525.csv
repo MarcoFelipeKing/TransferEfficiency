@@ -1,0 +1,5 @@
+Date_ymd, Time_Absolute_hms, Time_Relative_hms, Time_Relative_s, Time_Lag_s, Duration_s, Observation_Name, Log_File_Name, Actor, Behavior, Receiver, Modifier_1, Modifier_2, Modifier_3, Modifier_4, Modifier_5, Modifier_6, Other_Modifiers, Event_Type, Observer_ID, Coding_Scheme
+2020-12-15, 14:25:21, 00:00:00, 0.000, 9.414, 10.380, "FocalBehavr_Near field _Far field ", "LogFocalBehaviour_Near field _Far field  20201215_142521.csv", "1", "Patient",, "1-5 seconds",,,,,,, State start, 1234, HCWtest
+2020-12-15, 14:25:31, 00:00:10, 10.380, -0.000, -0.000, "FocalBehavr_Near field _Far field ", "LogFocalBehaviour_Near field _Far field  20201215_142521.csv", "1", "Patient",, "1-5 seconds",,,,,,, State stop, 1234, HCWtest
+2020-12-15, 14:25:31, 00:00:10, 10.380, 110.745, 449.613, "FocalBehavr_Near field _Far field ", "LogFocalBehaviour_Near field _Far field  20201215_142521.csv", "1", "Notes",, "Over 30 seconds",,,,,,, State start, 1234, HCWtest
+2020-12-15, 14:33:01, 00:07:39, 459.993, -0.000, -0.000, "FocalBehavr_Near field _Far field ", "LogFocalBehaviour_Near field _Far field  20201215_142521.csv", "1", "Notes",, "Over 30 seconds",,,,,,, State stop, 1234, HCWtest
